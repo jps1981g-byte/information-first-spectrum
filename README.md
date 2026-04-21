@@ -3,6 +3,11 @@
 Geometric–entropic correspondence between effective dimension and energy scales.
 
 ---
+## DOI (Zenodo)
+
+This project is archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.19680879
 
 ## 🌌 Overview
 
